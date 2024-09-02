@@ -1,2 +1,2 @@
 # nosql-challenge
-food hygiene rating
+Module 12 Challenge - Food hygiene rating
